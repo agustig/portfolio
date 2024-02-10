@@ -1,17 +1,32 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Accola Japanese Academy, JP
+  period: 2023 - 2024
+  description: I achieved proficiency in the Japanese language by
+    enrolling in a one year and three months course at Accola Japanese Academy in Japan.
+    Through their comprehensive learning program,
+    I successfully passed the Japanese Language Proficiency Test (JLPT) at N2 level.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Remote IT Engineer, Sabang Wisata Travel, ID
+  period: 2021 - 2022
+  description:
+    As a Remote IT Engineer at Sabang Wisata Travel over the course of one year,
+    my responsibilities included optimizing server performance,
+    evaluating suitable options based on the company's needs,
+    building new servers and migrating systems using Docker,
+    and regularly monitoring and tuning databases like MariaDB and Redis within the Docker environment.
+
+- title: System Administrator, Sabang Wisata Travel, ID
+  period: 2018 - 2020
+  description: As a System Administrator at Sabang Wisata Travel,
+    I played a pivotal role in orchestrating the company's digital transformation,
+    overseeing computer system configurations, designing networks,
+    implementing system installations, troubleshooting,
+    and contributing significantly to the development and maintenance of the company's WordPress website,
+    server performance tuning, email server configuration, and overall system management.
+
+- title: Internship, Malikussaleh University, ID
+  period: 2016
+  description: Contributed to the development of network infrastructure for the university.
+
+- title: Student, Politeknik Negeri Lhokseumawe, ID
+  period: 2014 - 2016
+  description: Graduated with a Two-Year Associate Degree in Information Technology, with a final project entitled "Design and Build a Web-based Statistical Information System for the Interest of New Students at Malikussaleh University".
