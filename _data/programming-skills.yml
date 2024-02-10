@@ -1,3 +1,7 @@
+- name: Clean Architecture
+  percentage: 80
+  color: info
+
 - name: Dart/Flutter
   percentage: 90
   color: primary
@@ -17,3 +21,7 @@
 - name: Python
   percentage: 80
   color: info
+
+- name: Test-Driven Development
+  percentage: 79
+  color: warning
