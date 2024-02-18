@@ -20,16 +20,17 @@ A movie ticketing app that runs on Android and iOS. This application retrieves d
 </ul>
 <br>
 
-| **Skill**         | **Purpose**                                              |
-| ----------------- | -------------------------------------------------------- |
-| Dart/Flutter      | Backbone of the project                                  |
-| GoRouter          | Navigating between different screens                     |
-| REST              | Main communication style with the TMDB and Stipe Service |
-| Dio               | Facilitate REST API consumption                          |
-| Firebase/Supabase | Online cloud storage & Authentication service            |
-| Riverpod          | Used for Clean Architecture principle                    |
-| Stripe            | Payment handler service                                  |
-| Git/Github        | Version control and Issue tracking                       |
+| **Skill**          | **Purpose**                                               |
+| ------------------ | --------------------------------------------------------- |
+| Dart/Flutter       | Backbone of the project                                   |
+| GoRouter           | Navigating between different screens                      |
+| REST               | Main communication style with the TMDB and Stipe Service  |
+| Dio                | Facilitate REST API consumption                           |
+| Firebase/Supabase  | Online cloud storage & Authentication service             |
+| Clean Architecture | Software architectural pattern in application development |
+| Riverpod           | State management and dependency injection                 |
+| Stripe             | Payment service                                           |
+| Git/Github         | Version control and Issue tracking                        |
 
 <br><br>
 {% include elements/button.html link="https://github.com/agustig/flix_app" text="GitHub" block=true %}
