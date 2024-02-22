@@ -22,10 +22,11 @@ to organize tasks and keep personal notes for offline use.
 | **Skill**                 | **Purpose**                                               |
 | ------------------------- | --------------------------------------------------------- |
 | Dart/Flutter              | Backbone of the project                                   |
-| Google Play Store Console | App publishing in android flavor (in review)              |
+| Google Play Store Console | App publishing in android flavor                          |
 | Bloc                      | State management                                          |
 | MVVM                      | Software architectural pattern in application development |
 | Git/Github                | Version control and Issue tracking                        |
 
 <br><br>
-{% include elements/button.html link="https://github.com/agustig/one_task" text="GitHub" block=true %}
+{% include elements/button.html link="https://github.com/agustig/one_task" text="GitHub" size="lg" %}
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=dev.agustig.onetask" text="Google Play" size="lg" %}
